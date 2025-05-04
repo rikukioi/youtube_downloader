@@ -3,7 +3,7 @@
 ## Installing
 1. Clone repository:
    ```bash
-   git clone https://github.com/rikukioi/ydownloader-consoleapp
+   git clone https://github.com/rikukioi/youtube_downloader
    ```
    Install requirements:
    ```bash
